@@ -1,0 +1,12 @@
+.nosotrosbody{
+    background: #4A7DE1;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #4A7DE1;
+    font-family: "SS Nickson One";
+    font-size: 28px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+    border-radius: 10px;
+}

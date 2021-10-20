@@ -1,0 +1,60 @@
+#menu{
+        background-color: #6C94E6;
+        border-radius: 15px;
+        }
+
+
+        #menu ul{
+        list-style: none;
+        margin: 0;
+        padding: 10px;
+            text-align: center;
+        }
+
+        #menu ul li{
+        display: inline-block;
+
+        }
+
+        #menu ul li a{
+        color: white;
+        padding: 10px;
+        text-decoration: none;
+        }
+
+        #menu ul li a:hover{
+        background-color: #6A7FA8;
+        }
+.nosotrosbody{
+    background: black;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #4A7DE1;
+    font-family: "SS Nickson One";
+    font-size: 28px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+    border-radius: 10px;
+}
+.containerr{
+    background-color: #1E335C;
+    width:55% ;
+    height: 70%;
+    margin: auto;
+    text-align: center;
+     border-radius: 10px;
+}
+/* tamaño del input de la ventana de contactos */
+.tamano input{
+    width:40%;
+    height:50px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+.banner1{
+
+    width: 15%;  
+    margin: 0 auto;
+}
