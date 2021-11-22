@@ -1,5 +1,5 @@
 #menu{
-        background-color: #6C94E6;
+        background-color: #ADADAD;
         border-radius: 15px;
         }
 
@@ -23,7 +23,7 @@
         }
 
         #menu ul li a:hover{
-        background-color: #6A7FA8;
+        background-color: #F0A8A8;
         }
 .nosotrosbody{
     background: black;
@@ -38,7 +38,7 @@
     border-radius: 10px;
 }
 .containerr{
-    background-color: #1E335C;
+    background-color: #ADADAD;
     width:55% ;
     height: 70%;
     margin: auto;

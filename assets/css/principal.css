@@ -53,7 +53,7 @@
     color:white;
      box-sizing:border-box;
     width: 350px;
-    height: 350px;
+    height: 300px;
 }
 
 .tarjetas a{
@@ -74,7 +74,7 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    background: #6C94E6;
+    background: #ADADAD;
     color: white;
     padding: 5px;
     font-size: 22px;
